@@ -7,9 +7,8 @@ public class Main {
 
         Pedido pedido = new Pedido();
 
-        // ==========================
+
         // Pedido 1
-        // ==========================
 
         String primer1 = "Sopa de pollo";
         double precioPrimer1 = 12000;
@@ -26,9 +25,9 @@ public class Main {
 
 
 
-        // ==========================
+
         // Pedido 2
-        // ==========================
+
 
         String primer2 = "Crema de tomate";
         double precioPrimer2 = 10000;
@@ -52,9 +51,9 @@ public class Main {
 
 
 
-        // ==========================
+
         // Pedido 3
-        // ==========================
+
 
         String primer3 = "Ensalada";
         double precioPrimer3 = 9000;
